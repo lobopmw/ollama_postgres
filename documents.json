@@ -1,0 +1,75 @@
+{
+    "course": "data-engineering-zoomcamp",
+    "documents": [
+        {
+            "text": "The purpose of this document is to capture frequently asked technical questions.\nThe course will start on 15th Jan 2024 at 17h00. Subscribe to the course Google Calendar (desktop only). Register before the course starts using this link.",
+            "section": "General course-related questions",
+            "question": "Course – When will the course start?"
+        },
+        {
+            "text": "GitHub – DataTalksClub data-engineering-zoomcamp#prerequisites",
+            "section": "General course-related questions",
+            "question": "Course – What are the prerequisites for this course?"
+        },
+        {
+            "text": "Yes, even if you don't register, you're still eligible to submit the homeworks. Be aware, however, that there will be deadlines for turning in the final projects.",
+            "section": "General course-related questions",
+            "question": "Course – Can I still join the course after the start date?"
+        },
+        {
+            "text": "You don't need it. You're accepted. You can also just start learning and submitting homework without registering. Registration is just to gauge interest before the start date.",
+            "section": "General course-related questions",
+            "question": "Course – I have registered for the Bootcamp. When can I expect to receive the confirmation email?"
+        },
+        {
+            "text": "You can start by installing and setting up all the dependencies and requirements (Google Cloud account, Git, Docker, Terraform, Python, SQL).",
+            "section": "General course-related questions",
+            "question": "Course – What can I do before the course starts?"
+        },
+        {
+            "text": "There are 3 Zoomcamps in a year (Data-Engineering, Machine Learning, MLOps). Each runs once per year. Data-Engineering typically runs January to April.",
+            "section": "General course-related questions",
+            "question": "Course – How many Zoomcamps are there and how often do they run?"
+        },
+        {
+            "text": "The homeworks are released every week. You are expected to complete them within 1 week after release, but solutions will be accepted until the final deadline for projects.",
+            "section": "Homework and Projects",
+            "question": "Homework – What is the deadline for submitting homework?"
+        },
+        {
+            "text": "The final project is due 1 month after the last lecture. It is required to receive the certification.",
+            "section": "Homework and Projects",
+            "question": "Projects – When is the final project due?"
+        },
+        {
+            "text": "Certification is provided free of charge for students who successfully submit all mandatory homeworks and the final project by the deadlines.",
+            "section": "Certification",
+            "question": "Certification – How can I get the certificate?"
+        },
+        {
+            "text": "Yes, you can collaborate with peers. However, each student must submit their own homework and project with their own explanations.",
+            "section": "Collaboration",
+            "question": "Homework – Can I collaborate with others on homework and projects?"
+        },
+        {
+            "text": "The course is free and open-source, supported by the DataTalks.Club community. You can donate or contribute by improving materials on GitHub.",
+            "section": "General course-related questions",
+            "question": "Course – Is the course free? How is it funded?"
+        },
+        {
+            "text": "Yes, all sessions are recorded and uploaded to YouTube. You can follow asynchronously if you can't attend live sessions.",
+            "section": "Lectures",
+            "question": "Lectures – Will the sessions be recorded?"
+        },
+        {
+            "text": "You need to be familiar with Python, SQL, and Git. Knowledge of Docker and basic Linux commands will help.",
+            "section": "Prerequisites",
+            "question": "Prerequisites – What prior knowledge should I have before starting?"
+        },
+        {
+            "text": "We cover topics like Data Ingestion, Orchestration (Airflow), Data Warehousing (BigQuery), Analytics Engineering (dbt), Batch processing (Spark), Streaming (Kafka), and Deployment.",
+            "section": "Curriculum",
+            "question": "Curriculum – What topics are covered in the course?"
+        }
+    ]
+}
